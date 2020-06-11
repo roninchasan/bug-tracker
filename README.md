@@ -1,0 +1,2 @@
+# bug-tracker
+This application is a sort of epidemic simulator making use of the tree data type and recursion. Taking in a number of variables from the user, it makes a prediction about the number of survivors, immune, recovered, and deceased individuals in a population with a "bug" going around. I coded a significant portion of the parts that include the spreading of the bug and statistics about each node (person), with the rest coming from Professors David Gries and Michael Clarkson at Cornell University. My code can be found within the src folder in the file BugTree.java
